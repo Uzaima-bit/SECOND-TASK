@@ -176,36 +176,36 @@ font-weight: 600;
     margin-top: -20px;
     color: rgb(104, 106, 106);
 } 
-.last{
-    align-items: center;
-    text-align: center;
-    margin-top: 590px;
+.footer{
+    padding: 0px 10px 1px 300px;
+}
+.footer-text1{
+    font-family: "Gill Sans", sans-serif;
+    letter-spacing:1px;
+    font-size: x-large;
+    padding: 25px 0px 0px 210px ;
+}
+.footer-logo1{   
+    display: flex;
+    gap: 16px;
     justify-content: space-around;
-    margin-left: -580px;   
-    font-size: x-large; 
-    letter-spacing: 1px;
-    font-family: 'Gill Sans', sans-serif;
-    color: rgb(104, 106, 106);
-    
+    margin-top: 20px;
+    padding:8px 0px 0px 145px ;
+    height: 78px;
+    width:84px ;
+    position: relative;
+    left:-23 ;
+}
+.footer-text2{
+    font-family: "Gill Sans", sans-serif;
+    letter-spacing:2px;
+    padding:18px 0px 0px 145px ;
+    font-size: large;
 }
 .contact{
     text-decoration: none;
-    font-size: medium;
 }
-.imglast{
-    display: flex;
-    gap: 20px;
-    margin-top: -15px;
-    
-}
-.lasta{
-    font-size: large;
-    margin-top: 30px;
-    font-family: 'Gill Sans',  sans-serif;
-    font-weight: 500;
-    letter-spacing: 1px;
-    margin-left: -5px;
-}
-.psp{
-    margin-top: 39px;
+.footer2-logo{
+    padding:22px 23px 0px 285px ;
+    width:120px ;
 }
