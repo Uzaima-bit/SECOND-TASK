@@ -1,45 +1,33 @@
+
+ .main{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 80px 0px 0px 100px;
+ }
 .logo{
-    padding: 140px 0px 0px 170px;
-    margin-left: 10px;
-     
- }
- .watch{  padding: 30px 0px 0px 150px ;
     
-     font-family: 'Gill Sans', sans-serif;
-     letter-spacing: 1px;
-     font-weight: 700;
-     margin-left: -70px;
-     margin-top: 6px;
-     font-size: xx-large;
-     /* font-size: larger; */
- }
- .para{ padding: 0px 0px 0px 160px;
-     font-family: 'Gill Sans', sans-serif;
-     font-weight: 500;
-     letter-spacing: 2px;
-     color: rgb(104, 106, 106);
-     font-size: x-large;
-     
- }
- .fullimg{
-     display: flex;
-     justify-content: space-between;
-     margin-left: 670px;
-     margin-top: -430px;
- }
+}
+.content-1{ 
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 900;
+    font-size: 30px;
+    margin-left: -79px;
+}
+.content-2{
+    font-size: 30px;
+   margin-top: -8px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
  .android{
     display: flex;
-    gap: 22px;
-    margin-left: 15px;
-    padding: 130px 0px 0px 145px;
+    gap: 25px;
     margin-top: -100px;
- }
- .image{
-     padding: 120px 0px 0px 0px;
+    margin-left: 150px;
  }
  .sec2{
      display: flex;
-     margin-top: -5px;
+     margin-top: 129px;
      margin-left: 75px;
      
  }
